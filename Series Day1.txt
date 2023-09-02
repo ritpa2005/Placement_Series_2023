@@ -1,0 +1,18 @@
+Series Day1 
+1. (b)495
+2. (d)ripe
+3. (c)441
+4. (d)15
+
+5. 
+#include <iostream>
+using namespace std;
+
+int main(){
+    float ph;
+    cin>>ph;
+    if(ph>7) cout<<"Alkaline\n";
+    else if(ph<7) cout<<"Acidic\n";
+    else cout<<"Neutral\n";
+    return 0;
+}
