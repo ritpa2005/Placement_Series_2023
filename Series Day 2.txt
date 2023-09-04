@@ -1,0 +1,19 @@
+Series Day 2
+
+1. (B) Sister of father-in-law
+2. (C) 1941
+
+3.
+#include <iostream>
+using namespace std;
+
+int main(){
+    int h,r;
+    cout<<"Enter height and radius: ";
+    cin>>h>>r;
+    cout<<"Volume = "<< (3.14*r*r*h)<<endl;
+    return 0;
+}
+
+4. (B) Dear Mr. Smith,
+5. (D) Compile Time Error
