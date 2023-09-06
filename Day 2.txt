@@ -16,4 +16,8 @@ int main(){
 }
 
 4. (B) Dear Mr. Smith:
+<<<<<<< HEAD:Day 2.txt
 5. (D) 11
+=======
+5. (D) 11
+>>>>>>> 7e88007d13688f4e6d451283b2661d4a7abfe5bb:Series Day 2.txt
