@@ -15,5 +15,5 @@ int main(){
     return 0;
 }
 
-4. (B) Dear Mr. Smith,
-5. (D) Compile Time Error
+4. (B) Dear Mr. Smith:
+5. (D) 11

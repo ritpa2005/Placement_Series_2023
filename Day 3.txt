@@ -1,3 +1,11 @@
+Day 3
+
+1. (A) 23%
+2. (C) Printer, because it is an output device while others are input devices.
+3. (D) inevitable, standards, imperatives
+
+4.
+C++:
 #include <iostream>
 using namespace std;
 
@@ -11,3 +19,8 @@ int main(){
     }
     return 0;
 }
+
+Python:
+print(('*'*8 + '\n')*4)
+
+5. (D) 3,7
