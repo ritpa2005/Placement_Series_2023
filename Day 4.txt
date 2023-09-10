@@ -1,0 +1,10 @@
+Day 4
+
+1. (A) 70 days
+2.(i) (C) Rambling
+  (ii) (A) Misgiving
+3. (B) 8.224
+
+4. (D) i=i+5
+5. (C) Void function
+6. All are valid datatypes
