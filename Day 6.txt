@@ -1,0 +1,27 @@
+Day 6
+
+1. (A) Subjugete
+2. (A) RWDNXZS
+3. (B) 29
+4. (B) 7.14%
+
+5.
+#include <iostream>
+using namespace std;
+
+int main(){
+    int n;
+    cin>>n;
+    for(int i=1; i<=n; i++){
+        for(int j=1; j<2*i; j++){
+            cout<<j;
+        }
+        cout<<endl;
+    }
+    for(int i=n-2; i>0; i--){
+        for(int j=1; j<2*i; j++){
+            cout<<j;
+        }
+        cout<<endl;
+    }
+}
