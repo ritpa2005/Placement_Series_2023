@@ -1,0 +1,16 @@
+Day 9
+
+1. There are 3 types: 
+	Infrastructure as a Service
+	Platform as a Service
+	Software as a Service
+
+2. 
+5c3/11c3
+=2/33
+
+3. 10206
+
+4. 19
+
+5. 648 (numbers are 24,25,26,27)
